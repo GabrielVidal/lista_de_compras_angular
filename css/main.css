@@ -1,5 +1,12 @@
+.lista-box{
+	width: 80%;
+	display: block;
+	margin: auto;
+	text-align: center;
+	float: none;
+}
 #lista-compras {
-	width: 460px;
+	width: 100%;
 }
 #lista-compras td, #lista-compras th {
 	text-align: center;
