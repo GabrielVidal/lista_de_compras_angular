@@ -1,17 +1,18 @@
-.lista-box{
-	width: 80%;
-	display: block;
-	margin: auto;
-	text-align: center;
-	float: none;
-}
+.lista-box {
+  width: 80%;
+  display: block;
+  margin: auto;
+  text-align: center;
+  float: none; }
+
 #lista-compras {
-	width: 100%;
-}
+  width: 100%; }
+
 #lista-compras td, #lista-compras th {
-	text-align: center;
-}
+  text-align: center; }
+
 .comprado-true {
-	text-decoration: line-through;
-	color: red;
-}
+  text-decoration: line-through;
+  color: red; }
+
+/*# sourceMappingURL=main.css.map */
